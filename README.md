@@ -1,6 +1,6 @@
 # FlyAway
 Simplilearn Project- 2                                                                                                           Date Submitted: 01/22/2022
-
+                                                                                                                                 Updated: 10/16/2023
 
 <h1>FlyAway (An Airline Booking Portal).
 Project 2 
