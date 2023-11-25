@@ -1,4 +1,7 @@
 *.pbxproj binary merge=union
+
+dist/* linguist-vendored=false
+
 # Frontend languages
 *.html linguist-language=HTML
 *.css linguist-language=CSS
