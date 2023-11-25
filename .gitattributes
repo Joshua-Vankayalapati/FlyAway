@@ -1,7 +1,8 @@
 *.pbxproj binary merge=union
 
 dist/* linguist-vendored=false
-FlyAway/src/main/webapp/* linguist-vendored
+/FlyAway/src/main/webapp/*.jsp linguist-language=JSP
+
 
 # Frontend languages
 *.html linguist-language=HTML
